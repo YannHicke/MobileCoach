@@ -99,8 +99,8 @@ export default {
       clientVersion: 1,
       role: "participant", // Can be: participant, supervisor, observer, or team-manager
       defaultNickname: "MobileCoach Client User",
-      interventionPattern: "sample",
-      interventionPassword: "sample",
+      interventionPattern: "INTERVENTION",
+      interventionPassword: "intervention",
       androidSenderId: "123456789012",
       localDeepstreamURL: "ws://127.0.0.1:6020/deepstream",
       localRestURL: "http://127.0.0.1:8080/MC/api/v02/",
